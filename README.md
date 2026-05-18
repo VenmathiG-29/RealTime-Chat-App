@@ -1,5 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
-![Demo App](frontend/public/Screenshot-2026-05-18-071221.png)
+![Demo App](frontend/public/Screenshot 2026-05-18 071221.png)
 
 
 🔗 **Live Demo:** [Click Here](https://realtime-chat-app-2-sowu.onrender.com/login)
